@@ -27,7 +27,6 @@ Bash script for a menu-driven medical clinic system: add/retrieve/update/delete 
 └── medical.sh.txt    # Bash script (run as bash medical.sh.txt or rename to medical.sh)
 ```
 
-**No other project files are required.** The script creates `medicalRecord.txt` and `medicalTests.txt` in the current directory when you run it. No input data or config files need to be added.
 
 ---
 
