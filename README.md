@@ -57,12 +57,3 @@ chmod +x medical.sh
 Then use the menu: 1 = Add record, 2 = Retrieve by patient ID (submenu), 3 = Abnormal tests, 4 = Average values, 5 = Update, 6 = Delete, 7 = Exit.
 
 ---
-
-## Do you need any other files?
-
-**No.** The script is self-contained. It creates and uses only:
-
-- **medicalRecord.txt** — created empty at start, filled when you add/update records.
-- **medicalTests.txt** — created and filled with default test definitions at start.
-
-You only need the script file (`medical.sh.txt` or `medical.sh`) and a Bash environment. No extra data or config files are required.
