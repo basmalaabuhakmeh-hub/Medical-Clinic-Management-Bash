@@ -43,15 +43,7 @@ Bash script for a menu-driven medical clinic system: add/retrieve/update/delete 
 Run from the directory where you want `medicalRecord.txt` and `medicalTests.txt` to live (e.g. the project folder):
 
 ```bash
-bash medical.sh.txt
-```
-
-Or rename the script to `medical.sh`, make it executable, and run:
-
-```bash
-mv medical.sh.txt medical.sh
-chmod +x medical.sh
-./medical.sh
+bash medical.sh
 ```
 
 Then use the menu: 1 = Add record, 2 = Retrieve by patient ID (submenu), 3 = Abnormal tests, 4 = Average values, 5 = Update, 6 = Delete, 7 = Exit.
