@@ -24,7 +24,7 @@ Bash script for a menu-driven medical clinic system: add/retrieve/update/delete 
 ```
 .
 ├── README.md
-└── medical.sh.txt    # Bash script (run as bash medical.sh.txt or rename to medical.sh)
+└── medical.sh.txt    # Bash script 
 ```
 
 
